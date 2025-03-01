@@ -51,5 +51,8 @@ Acceptance Testing: Verifying that the software meets user requirements and is r
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-
+Prompt Engineering involves crafting inputs to AI models in such a way that maximizes the quality and relevance of the AI’s response. It’s vital because it helps ensure AI models can interpret and respond appropriately to user queries, especially as AI models become more powerful and widespread.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: “Tell me about dogs.”
+Improved Prompt: “Can you tell me about the different breeds of dogs and their characteristics?”
+ The improved prompt is specific about what the user wants to know—dog breeds and characteristics—while the vague prompt leaves the AI unsure of the scope of the request. Specificity helps the AI provide more relevant and structured responses.
